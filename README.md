@@ -31,3 +31,5 @@ Googledocs/Excel formula examples with explanations coming later.
 - [x] [Player Generator](http://www.rabastor.com/scorinators.htm)
 - [x] [Draw Randomiser](http://www.rabastor.com/scorinators.htm)
 - [x] [League Ranking Sheet](http://www.rabastor.com/scorinators.htm)
+- [ ] [Online Player Database](http://rabastor.com/legends/legend.php) (repo coming soon)
+- [ ] [Online Auction System](http://rabastor.com/olaf/) (repo coming soon)
