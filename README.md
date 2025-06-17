@@ -22,17 +22,17 @@ Googledocs/Excel formula examples with explanations coming later.
 - [ ] [Rabastor Person Generator](https://docs.google.com/spreadsheets/d/1mAlcGsw4Vt8CcczPP52K0n4fE7__3K1cF-M3QdLucPI/)
 
 ## Associated Repos
-- [x] [Xkoranate Community Edition](https://github.com/RuleTheriault/Xkoranate-CE) (no contributions from me yet, for full credits check repo)
+- [x] [Xkoranate Community Edition](https://github.com/blackmage37/Xkoranate-CE) (this should now compile on Windows 11)
 - [ ] [Discord scorination bot](https://github.com/blackmage37/scorebot)
 - [ ] [Trading Card platform](https://github.com/blackmage37/UltimateTeam)
 
 ## Other Links
-- [x] [Wiki stuff](http://rabastor.com/wiki/index.php?title=Main_Page) (various things here)
+- [x] [Wiki stuff](https://nssportwiki.com/wiki/index.php/User:Osarius) (various things here)
 
 ## Things To Migrate
-- [x] [RP Bonus Calculator](http://www.rabastor.com/scorinators.htm)
-- [x] [Player Generator](http://www.rabastor.com/scorinators.htm)
-- [x] [Draw Randomiser](http://www.rabastor.com/scorinators.htm)
-- [x] [League Ranking Sheet](http://www.rabastor.com/scorinators.htm)
-- [ ] [Online Player Database](http://rabastor.com/legends/legend.php) (repo coming soon)
-- [ ] [Online Auction System](http://rabastor.com/olaf/) (repo coming soon)
+- [x] [RP Bonus Calculator](https://nssportwiki.com/anaia/tools/)
+- [x] [Player Generator](https://nssportwiki.com/anaia/tools/)
+- [x] [Draw Randomiser](https://nssportwiki.com/anaia/tools/)
+- [x] [League Ranking Sheet](https://nssportwiki.com/anaia/tools/)
+- [ ] [Online Player Database](#) (repo coming soon)
+- [ ] [Online Auction System](#) (repo coming soon)
