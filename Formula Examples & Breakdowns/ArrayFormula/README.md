@@ -4,5 +4,5 @@ Fundamentally, what ArrayFormula does is, it allows GoogleSheets to process a fo
 
 ## Examples
 - [x] [ArrayFormula as QUERY](<../../Formula Examples & Breakdowns/ArrayFormula/ArrayFormula_QUERY.md>)
-- [ ] MAXIFS-OR
+- [x] [MAX with multiple criteria](<../../Formula Examples & Breakdowns/ArrayFormula/MAXIFS-OR.md>)
 - [ ] RANKIF
