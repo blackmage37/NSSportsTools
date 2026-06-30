@@ -1,0 +1,41 @@
+{
+  "BLD": {
+    "name": "Bleeding Ear Records",
+    "sector": "Entertainment",
+    "nation": "Osarius",
+    "current_price": 10.93,
+    "prev_close": 10.93,
+    "target_close": 10.93,
+    "volatility": 0.04,
+    "keywords": {
+      "positive": [ "music", "entertainment", "festival", "celebration", "recording" ],
+      "negative": [ "piracy", "controversy" ]
+    }
+  },
+  "FRRI": {
+    "name": "Ferro Industries",
+    "sector": "Mining",
+    "nation": "Osarius",
+    "current_price": 45.20,
+    "prev_close": 45.20,
+    "target_close": 45.20,
+    "volatility": 0.07,
+    "keywords": {
+      "positive": [ "mining" ],
+      "negative": [ "environmental" ]
+    }
+  },
+  "AGWU": {
+    "name": "Agwu Health",
+    "sector": "Healthcare",
+    "nation": "Cobrio",
+    "current_price": 22.87,
+    "prev_close": 22.87,
+    "target_close": 22.87,
+    "volatility": 0.03,
+    "keywords": {
+      "positive": [ "medical", "subsidy", "health", "disease", "pandemic" ],
+      "negative": [ "famine", "banned", "strike" ]
+    }
+  }
+}
