@@ -1,6 +1,6 @@
 # NationStates Stock Market Engine
 
-[![GitHub license](https://img.shields.io/github/license/blackmage37/NSSportsTools)](https://github.com/blackmage37/NSSportsTools/tree/main/StockMarket) ![Status](https://img.shields.io/badge/Status-Beta_Testing-yellow) ![Python](https://img.shields.io/badge/Python-3.8%2B-blueviolet) ![World](https://img.shields.io/badge/World-NationStates-blue) ![White Label Badge](https://img.shields.io/badge/Anaia-Koroa%20City-200441?labelColor=00ff89) 
+[![GitHub license](https://img.shields.io/github/license/blackmage37/NSSportsTools)](https://github.com/blackmage37/NSSportsTools/tree/main/StockMarket) ![Status](https://img.shields.io/badge/Status-Beta_Testing-yellow) ![Python](https://img.shields.io/badge/Python-3.8%2B-blueviolet?logo=python) ![World](https://img.shields.io/badge/World-NationStates-blue) ![White Label Badge](https://img.shields.io/badge/Anaia-Koroa%20City-200441?labelColor=00ff89) 
 
 A lightweight, automated Python stack that simulates a live, intra-day fictional stock market driven directly by your [NationStates](https://www.nationstates.net) nation's legislative happenings and regional events.
 
