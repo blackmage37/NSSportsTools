@@ -1,6 +1,6 @@
 # NSSportsTools
 
-[![GitHub license](https://img.shields.io/github/license/blackmage37/NSSportsTools)](https://github.com/blackmage37/NSSportsTools/tree/main/StockMarket) ![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Apps Script](https://img.shields.io/badge/-Apps%20Script-darkgreen?logo=googleappsscript) ![World](https://img.shields.io/badge/World-NationStates-blue) ![White Label Badge](https://img.shields.io/badge/Anaia-Koroa%20City-200441?labelColor=00ff89) 
+[![GitHub license](https://img.shields.io/github/license/blackmage37/NSSportsTools)](https://github.com/blackmage37/NSSportsTools/tree/main/StockMarket) ![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Apps Script](https://img.shields.io/badge/-Apps%20Script-darkgreen?logo=googleappsscript) ![World](https://img.shields.io/badge/World-NationStates-blue) 
 
 A bunch of tools for NS Sport related things, created and/or collated by [Osarius](https://nationstates.net/osarius).
 
