@@ -1,11 +1,14 @@
 # NSSportsTools
-A bunch of tools I use for NS Sport related things.
+
+[![GitHub license](https://img.shields.io/github/license/blackmage37/NSSportsTools)](https://github.com/blackmage37/NSSportsTools/tree/main/StockMarket) ![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Apps Script](https://img.shields.io/badge/-Apps%20Script-darkgreen?logo=googleappsscript) ![World](https://img.shields.io/badge/World-NationStates-blue) ![White Label Badge](https://img.shields.io/badge/Anaia-Koroa%20City-200441?labelColor=00ff89) 
+
+A bunch of tools for NS Sport related things, created and/or collated by [Osarius](https://nationstates.net/osarius).
 
 Checked boxes indicate things that have been released. Unchecked = still in dev/test.
 
 Tried to give credit where I could, but may have forgotten things or attributed the wrong person. If so, let me know and I'll update.
 
-Googledocs/Excel formula examples with explanations coming later.
+GoogleSheets/Excel formula examples with explanations coming later.
 
 ## Contents
 - [x] [UICA/IFCF scorinator](https://docs.google.com/spreadsheets/d/1u9D7dwDDgJvGE-nQ4q2Lsft6y44qxazXaK7vtIdz6Bs/) (original by CommerceHeights)
